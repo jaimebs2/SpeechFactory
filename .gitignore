@@ -1,0 +1,7 @@
+__pycache__*
+out/
+pretrained_models*
+models_weights*
+.venv/
+*.csv
+*.sh

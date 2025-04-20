@@ -1,0 +1,13 @@
+numpy
+pandas
+torch
+torchaudio
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+vllm
+praat-parselmouth
+speechbrain
+sudachidict_ful
+pyrootutils
+soundfile
+hydra-core
+loguru

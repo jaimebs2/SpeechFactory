@@ -146,3 +146,25 @@ Voices the translated utterances using the selected emotional TTS voice. Saves o
 ## 📋 Contact
 For questions, open an issue or contact: jaime.bellver@upm.es
 
+---
+
+## 📜 License
+
+Released under **CC BY 4.0**. Attribution required for derivative works.
+Note: MEACorpus includes YouTube-sourced content — additional rights may apply.
+
+---
+
+## 🙌 Acknowledgements
+
+Supported by:
+
+* **European Commission** – ASTOUND3 (101071191, Horizon Europe)
+* **MCIN/AEI/ERDF** – Project BEWORD (PID2021-126061OB-C43)
+* **INNOVATRAD-CM** – Comunidad de Madrid (PHS-2024/PH-HUM-52)
+
+---
+
+**Authors:** Jaime Bellver-Soler, Anmol Guragain, Samuel Ramos-Varela, Ricardo Córdoba, Luis Fernando D’Haro
+*Speech Technology and Machine Learning Group, Universidad Politécnica de Madrid*
+

@@ -31,7 +31,7 @@ If you use this repository in your work, please cite the following paper:
 
 You can explore a sample dataset generated with SpeechFactory on HuggingFace🤗:
 
-SER-MSPMEA-Spanish Database: Combines MSPPodcast with MEACorpus. Download the full dataset and accompanying files for use with Modus Recognition [here](https://huggingface.co/datasets/jaimebellver/SER-MSPMEA-Spanish).
+SER-MSPMEA-Spanish Database: Combines MSPPodcast with MEACorpus. Download the spanish synthetic audios [here](https://huggingface.co/datasets/jaimebellver/SER-MSPMEA-Spanish).
 
 ## ✨ SER Model Weights
 

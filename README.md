@@ -10,14 +10,14 @@ The current release focuses on the main languages of the Iberian Peninsula (Span
 
 > **Why?** Public SER datasets are limited in size, language coverage and emotion balance. Synthetic data helps bridge this gap and improves cross-lingual SER generalisation, as shown in our accompanying paper:
 >
-> > J. Bellver-Soler *et al.* "**Multilingual Speech Emotion Recognition in Iberian Languages: A Generative AI Framework with LLMs and TTS Data Augmentation**".
+> > J. Bellver-Soler *et al.* "**Speech Emotion Recognition using Multimodal LLMs and Quality-Controlled TTS-Based Data Augmentation for Iberian Languages**".
 
 If you use this repository in your work, please cite the following paper:
 
 **BibTeX:**
 ```bibtex
-@inproceedings{bellver2025multilingual,
-  title     = {Multilingual Speech Emotion Recognition in Iberian Languages: A Generative AI Framework with LLMs and TTS Data Augmentation},
+@inproceedings{bellver2025speech,
+  title     = {Speech Emotion Recognition using Multimodal LLMs and Quality-Controlled TTS-Based Data Augmentation for Iberian Languages},
   author    = {Bellver-Soler, Jaime et al.},
   year      = {2025},
   booktitle = {},
